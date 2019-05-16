@@ -223,7 +223,7 @@ PyCharm的安装、配置和使用我们在后面会进行介绍。
 
 ### 练习
 
-1. 在Python交互环境中查看下面的代码结果，并将内容翻译成中文。
+1. 在Python交互环境中查看下面的代码结果，并将内容翻译成中文。“import this”python之禅，一行代码运行即可。
 
     ```Python
     import this
